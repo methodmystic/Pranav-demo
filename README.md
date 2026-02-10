@@ -2,5 +2,4 @@
 
 My first repo
 <br> 
-Author-Pranav(DYPCOE)
-
+Author-Pranav DYPCOE
